@@ -1,0 +1,28 @@
+name: flutter_example
+description: A Flutter example for zxcvbnm
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.0.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  intl: any
+  intl_multiple_translations: ^1.0.0
+  zxcvbnm: ^1.0.1
+  zxcvbnm_flutter: ^1.0.0
+
+dev_dependencies:
+  intl_utils: any
+  flutter_lints: any
+
+flutter:
+  uses-material-design: true
+
+flutter_intl:
+  enabled: true
+  class_name: AppLocalizations

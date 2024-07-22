@@ -1,0 +1,3 @@
+[submodule "zxcvbnm"]
+	path = zxcvbnm
+	url = https://github.com/zeezooz/zxcvbnm.git
