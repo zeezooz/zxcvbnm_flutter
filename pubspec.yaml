@@ -2,7 +2,7 @@ name: zxcvbnm_flutter
 description: >
   Translations for zxcvbnm for use in Flutter.
   Zxcvbnm is a password strength estimator inspired by password crackers.
-version: 1.0.0
+version: 1.1.0
 repository: https://github.com/zeezooz/zxcvbnm_flutter
 
 environment:

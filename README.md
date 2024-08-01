@@ -19,6 +19,7 @@ See
 
 ### Included languages
 
+- `ar` - Arabic
 - `cs` - Czech
 - `de` - German
 - `en` - English
