@@ -12,9 +12,9 @@ dependencies:
   flutter_localizations:
     sdk: flutter
   intl: any
-  intl_multiple_translations: ^1.0.0
-  zxcvbnm: ^1.1.0
-  zxcvbnm_flutter: ^1.1.0
+  intl_multiple_translations: ^1.0.1
+  zxcvbnm: ^1.1.1
+  zxcvbnm_flutter: ^1.1.1
 
 dev_dependencies:
   intl_utils: any
