@@ -36,5 +36,5 @@ See
 ## Contribution
 
 Please feel free to
-[open an issue](https://github.com/zeezooz/zxcvbnm/issues/new) or provide a pull
+[open an issue](https://github.com/zeezooz/zxcvbnm_flutter/issues/new) or provide a pull
 request.
